@@ -23,32 +23,247 @@ Im Kurs lernen wir anhand zahlreicher Beispiele die verschiedenen Genres von Kur
 Benotung
 --------
 
-| Aktivität | Wertung |
-| --- | --- |
-| Teilnahme am Unterricht | 25% |
-| Zusammenfassungen, Texte | 25% |
-| Presentationen | 25% |
-| Projekte | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Aktivität
+{{< thclose >}}
+{{< thopen >}}
+Wertung
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Teilnahme am Unterricht
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Zusammenfassungen, Texte
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentationen
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Projekte
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Kursplan
 --------
 
-| WOCHE # | THEMEN | AUFGABEN |
-| --- | --- | --- |
-| 1 | Einführung in den Kurs | &nbsp; |
-| 2 | Kurzfilm und Hörspiel: Definition und Geschichte | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#2) |
-| 3 | Kurzfilm-Festivals, Filmhochschulen Genre: Kriminalhörspiele | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#3) |
-| 4 | Vom Text zum Film: Umsetzung eines Textes in einen Film am Beispiel „Freundinnen“ | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#4) |
-| 5 | Kurzfilme: "Meine Eltern," "Abhaun!" und "Fragile" | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#5) |
-| 6 | Produktion eines Hörspiels, erste Entwürfe zu einem eigenen Hörspiel/Kurzfilm | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#6) |
-| 7 | Schriftstellerin und Hörspiel-Autorin Esther Dischereit zu Gast in unserem Kurs | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#7) |
-| 8 | Kurzfilme von internationalen Künstlern in Deutschland | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#8) |
-| 9 | Das O-Ton Hörspiel am Bespiel von "Preislied" von Paul Wühr und "Apollo Amerika" von Ferdinand Kriwet | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#9) |
-| 10 | Experimenteller Kurzfilm am Beispiel der Filme | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#10) |
-| 11 | Vorbereitung zur Hörspiel-/Kurzfilmproduktion | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#11) |
-| 12 | Berliner sehen, intermedium Festival, Animationsfilme | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#12) |
-| 13 | Neue on-line Formen des Hörspiels, Podcasts, Neue Kurzfilmformate | [Aufgabenstellung]({{< baseurl >}}/pages/assignments#13) |
-| 14 | Medienfest: Vorstellung der Studentenproduktionen | Studentenproduktionen 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WOCHE #
+{{< thclose >}}
+{{< thopen >}}
+THEMEN
+{{< thclose >}}
+{{< thopen >}}
+AUFGABEN
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Einführung in den Kurs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Kurzfilm und Hörspiel: Definition und Geschichte
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Kurzfilm-Festivals, Filmhochschulen Genre: Kriminalhörspiele
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Vom Text zum Film: Umsetzung eines Textes in einen Film am Beispiel „Freundinnen“
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Kurzfilme: "Meine Eltern," "Abhaun!" und "Fragile"
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Produktion eines Hörspiels, erste Entwürfe zu einem eigenen Hörspiel/Kurzfilm
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Schriftstellerin und Hörspiel-Autorin Esther Dischereit zu Gast in unserem Kurs
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#7)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Kurzfilme von internationalen Künstlern in Deutschland
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#8)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Das O-Ton Hörspiel am Bespiel von "Preislied" von Paul Wühr und "Apollo Amerika" von Ferdinand Kriwet
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Experimenteller Kurzfilm am Beispiel der Filme
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Vorbereitung zur Hörspiel-/Kurzfilmproduktion
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Berliner sehen, intermedium Festival, Animationsfilme
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Neue on-line Formen des Hörspiels, Podcasts, Neue Kurzfilmformate
+{{< tdclose >}}
+{{< tdopen >}}
+[Aufgabenstellung]({{< baseurl >}}/pages/assignments#13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Medienfest: Vorstellung der Studentenproduktionen
+{{< tdclose >}}
+{{< tdopen >}}
+Studentenproduktionen
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Statement on Plagiarism
 -----------------------
