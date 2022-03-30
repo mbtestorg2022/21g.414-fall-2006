@@ -21,7 +21,7 @@ Zum Hörspiel / zur Radiokunst
 
 [Radio online hören](http://web.ard.de/radio/radionet/index.php?ressort=hoerspiel)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Geschichte des Hörspiels (Mitteldeutscher Rundfunk) (PDF)](https://www.hdm-stuttgart.de/~curdt/Hoerspiel_Szczypula.pdf)
+[Geschichte des Hörspiels (Mitteldeutscher Rundfunk) (PDF)](https://www.hdm-stuttgart.de/~curdt/Hoerspiel_Szczypula.pdf)
 
 [Soundarchiv im Netz](http://www.hoerspielbox.de/frameset.htm)
 
